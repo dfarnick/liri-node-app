@@ -40,7 +40,7 @@ Pretty cool right? It returned the venue, location and date/time for the next co
 Let's give spotify a try...
 Enter This: node liri.js spotify-this-song "danger zone"
 
-![Image of spotify-this-song command](images/spotify.png)
+![spotify](https://user-images.githubusercontent.com/46286683/53222440-665b4400-3633-11e9-96ac-c56d7af702f8.PNG)
 
 Ooopss... you've got that bass
 Typo: node liri.js spotify-this-song fdafda
@@ -54,12 +54,13 @@ we all love movies...
 "Are you not entertained?"
 No? Try this command: node liri.js movie-this gladiator
 
-![Image of movie-this command](images/gladiator.png)
+![gladiator](https://user-images.githubusercontent.com/46286683/53222465-85f26c80-3633-11e9-9645-e237e7aa08d0.PNG)
+
 
 Not feeling like anybody?
 This will make it easy: node liri.js movie-this
 
-![Image of movie-this command](images/mrNobody.png)
+![mrnobody](https://user-images.githubusercontent.com/46286683/53222458-7bd06e00-3633-11e9-8138-96bf9197f657.PNG)
 
 
 ---------------------------------------------------------------------------------------------------------
@@ -68,13 +69,14 @@ Times get tough.
 Do what your told: 
 node liri.js do-what-it-says
 
-![Image of do-what-it-says command](images/doIt.png)
+![doit](https://user-images.githubusercontent.com/46286683/53222474-91459800-3633-11e9-9181-9738b1563920.PNG)
+
 
 ---------------------------------------------------------------------------------------------------------
 
 Oh and it can WRITE!
 
-![Image of write command](images/write.png)
+![write](https://user-images.githubusercontent.com/46286683/53222488-9e628700-3633-11e9-853a-593012731883.PNG))
 
 Whelp, that's all folks!
 ## Links
