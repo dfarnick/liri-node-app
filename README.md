@@ -21,7 +21,9 @@ Liri.js can take in one of the following commands:
 First we will start with searching for a concert. For this we will enter the following command into our CLI.
 
 Want to know when/where your favorite artist/band will be playing?
+
 When we enter: node liri.js concert-this
+
 It will look like this...
 
 ![![concert-thistryagain](https://user-images.githubusercontent.com/46286683/53222373-141a2300-3633-11e9-9216-b63846944eb3.PNG)
