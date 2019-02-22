@@ -44,7 +44,8 @@ Enter This: node liri.js spotify-this-song "danger zone"
 Ooopss... you've got that bass
 Typo: node liri.js spotify-this-song fdafda
 
-https://github.com/dfarnick/liri-node-app/issues/1#issue-413251837
+![ace](https://user-images.githubusercontent.com/46286683/53222244-93f3bd80-3632-11e9-9c9b-0f23f50d41c1.PNG)
+
 
 ---------------------------------------------------------------------------------------------------------
 
