@@ -39,12 +39,12 @@ Pretty cool right? It returned the venue, location and date/time for the next co
 Let's give spotify a try...
 Enter This: node liri.js spotify-this-song "danger zone"
 
-![Image of concert-this command](images/spotify.png)
+![Image of spotify-this-song command](images/spotify.png)
 
 Ooopss... you've got that bass
 Typo: node liri.js spotify-this-song fdafda
 
-![Image of concert-this command](images/spotify.png)
+![Image of spotify-this-song command](images\ace.PNG)
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -52,12 +52,12 @@ we all love movies...
 "Are you not entertained?"
 No? Try this command: node liri.js movie-this gladiator
 
-![Image of concert-this command](images/gladiator.png)
+![Image of movie-this command](images/gladiator.png)
 
 Not feeling like anybody?
 This will make it easy: node liri.js movie-this
 
-![Image of concert-this command](images/mrNobody.png)
+![Image of movie-this command](images/mrNobody.png)
 
 
 ---------------------------------------------------------------------------------------------------------
@@ -66,13 +66,13 @@ Times get tough.
 Do what your told: 
 node liri.js do-what-it-says
 
-![Image of concert-this command](images/doIt.png)
+![Image of do-what-it-says command](images/doIt.png)
 
 ---------------------------------------------------------------------------------------------------------
 
 Oh and it can WRITE!
 
-![Image of concert-this command](images/write.png)
+![Image of write command](images/write.png)
 
 Whelp, that's all folks!
 ## Links
