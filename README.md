@@ -32,7 +32,7 @@ It will look like this...
 As you can see since we left the artist/band out of the command, it returned an error asking us to enter the artist/band of our choice.
 
 Next...  Danger Zone / Right into the Danger Zo-o-o-o-one...
-
+node liri.js concert-this 'kenny loggins'
 ![concert-thissuccess](https://user-images.githubusercontent.com/46286683/53222309-c1d90200-3632-11e9-91a9-6e0273727ae4.PNG)
 
 Pretty cool right? It returned the venue, location and date/time for the next concert. You don't want to miss this folks!
