@@ -26,7 +26,7 @@ When we enter: node liri.js concert-this
 
 It will look like this...
 
-![![concert-thistryagain](https://user-images.githubusercontent.com/46286683/53222373-141a2300-3633-11e9-9216-b63846944eb3.PNG)
+![concert-thistryagain](https://user-images.githubusercontent.com/46286683/53222373-141a2300-3633-11e9-9216-b63846944eb3.PNG)
 
 
 As you can see since we left the artist/band out of the command, it returned an error asking us to enter the artist/band of our choice.
